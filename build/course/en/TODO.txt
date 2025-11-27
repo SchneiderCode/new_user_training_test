@@ -1,0 +1,9 @@
+TODO: 
+* Modify the course.json to have a section details each section of our resources: 
+ 1. Clusters
+ 2. Storage
+ 3. Cloud
+ 4. Working on the Cluster - Software, Slurm, OnDemand
+ 5. New User Assessment - Create an overview quiz to test the user's knowledge of the system. 
+
+ Use the AI Generated Images as starter files for each section's content/banner image.
